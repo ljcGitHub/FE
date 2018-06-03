@@ -21,7 +21,7 @@ node版本为[8.9.3](https://nodejs.org/zh-cn/),请自行升级，每个大章�
 
 #### 库
 - [koa2](https://github.com/koajs/koa) ([中文文档](http://www.koacn.com/) )
-- [koa-router](httpshttps://github.com/alexmingoia/koa-router)
+- [koa-router](https://github.com/alexmingoia/koa-router)
 - [sequelize](https://github.com/sequelize/sequelize) ([中文文档](https://demopark.github.io/sequelize-docs-Zh-CN/))
 - [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken)([中文文档](https://segmentfault.com/a/1190000009494020))
 
