@@ -37,5 +37,6 @@ koa是一门简单易学的web框架，优雅，简洁，自由。
 
 ## 目录
 * [1. ES6环境搭](https://github.com/ljcGitHub/koa2-server/blob/master/example/one/README.md)
+* [2. 路由]()
 
 
