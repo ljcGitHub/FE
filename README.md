@@ -1,11 +1,15 @@
 # koa2 实践教程
+[![node version][node-image]][node-url]
+
+[node-image]: https://img.shields.io/badge/node.js-%3E=_8-green.svg?style=flat-square
+[node-url]: http://nodejs.org/download/
 
 #### 前言
 koa是一门简单易学的web框架，优雅，简洁，自由。
 
 本文参考了廖雪峰，Scott等大佬的代码，为了方便理解，部分中间件会改为手写功能去实现。
 
-node版本为[8.9.3](https://nodejs.org/zh-cn/),请自行升级，每个大章都有写好的项目代码，方便代码阅读和拷贝。
+每个大章都有写好的项目代码，方便代码阅读和拷贝。
 
 #### 项目
 是基于koa2开发关于用户，商品管理，购物车的电商系统
