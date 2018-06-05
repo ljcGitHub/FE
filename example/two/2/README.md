@@ -6,7 +6,7 @@
 import {
   Controller,
   Get
-} from '../decorator/router'
+} from '../decorator/router' 
 
 @Controller('/api')
 export default class userRouter {
