@@ -6,12 +6,15 @@
   "author": "lijc",
   "license": "ISC",
   "scripts": {
-    "start": "node start"
+    "start": "node start",
+    "dbInit": "node ./database/init-db"
   },
   "dependencies": {
     "koa": "^2.5.1",
     "koa-bodyparser": "^4.2.1",
-    "koa-router": "^7.4.0"
+    "koa-router": "^7.4.0",
+    "mysql2": "^1.5.3",
+    "sequelize": "^4.37.10"
   },
   "devDependencies": {
     "babel-loader": "^7.1.2",
