@@ -41,6 +41,10 @@ koa是一门简单易学的web框架，优雅，简洁，自由。
   * [2.1 koa-router使用](https://github.com/ljcGitHub/koa2-server/tree/master/example/two/1)
   * [2.2 decorator装饰路由](https://github.com/ljcGitHub/koa2-server/tree/master/example/two/2)
   * [2.3 路由支持中间件]( https://github.com/ljcGitHub/koa2-server/tree/dev/example/two/3)
+* [3. 模型]()
+  * [3.1 模型创建](https://github.com/ljcGitHub/koa2-server/tree/master/example/three/1)
+  * [3.2 模型使用](https://github.com/ljcGitHub/koa2-server/tree/master/example/three/2)
+
 
  
 
