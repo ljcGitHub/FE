@@ -29,19 +29,24 @@ export default class userRouter {
   async logon(ctx, next) {
     const { account, password } = ctx.request.body
     const user = await Models.user.findOne({ where: { account } })
+    let code,message
     if (!user) {
-      await Models.user.upsert({ account, password: encryption(password) })
-      ctx.body = {
-        code: 1,
-        message: '注册成功！',
-        data: {}
+      const fleg = await Models.user.upsert({ account, password: encryption(password) })
+      if (fleg) {
+        code = 1
+        message =  '注册成功！'
+      } else {
+        code = 0
+        message =  '注册失败！'
       }
     } else {
-      ctx.body = {
-        code: 0,
-        message: '账号已经存在！',
-        data: {}
-      }
+      code = 0
+      message =  '账号已经存在！'
+    }
+    ctx.body = {
+      code,
+      message,
+      data: {}
     }
   }
 }
