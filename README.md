@@ -44,6 +44,9 @@ koa是一门简单易学的web框架，优雅，简洁，自由。
 * [3. 模型]()
   * [3.1 模型创建](https://github.com/ljcGitHub/koa2-server/tree/master/example/three/1)
   * [3.2 模型使用](https://github.com/ljcGitHub/koa2-server/tree/master/example/three/2)
+* [4. JSON Web Tokens]()
+  * [4.1 token生成](https://github.com/ljcGitHub/koa2-server/tree/master/example/four/1)
+  * [4.2 token解析](https://github.com/ljcGitHub/koa2-server/tree/master/example/four/2)
 
 
  
