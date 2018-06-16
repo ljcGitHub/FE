@@ -87,7 +87,7 @@ export default class userRouter {
 
 - url: http://localhost:3000/api/getUser?userid=1
 - method: get
-- headers: {"Authorization": " eyJhbGciOiJIUzI1NiIsInR..."}
+- headers: {"Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR..."}
 
 
 返回正确的数据：
