@@ -253,6 +253,7 @@ export default {
 
 #### vuex存储用户信息
 vuex的目录如下
+
 ├─ store
 │  ├─ actions.js          
 │  ├─ getters.js          
@@ -483,7 +484,7 @@ export default {
 
 点击注册, 会返回注册成功，并且账号密码清空
 
-###### 注册
+###### 登录
 
 输入账号为 newCustom
 
