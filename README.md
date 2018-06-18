@@ -51,6 +51,8 @@ koa是一门简单易学的web框架，优雅，简洁，自由。
 * [6. 简单的电商项目](https://github.com/ljcGitHub/koa2-server/tree/master/example/six/1)
   * [6.1 数据库表](https://github.com/ljcGitHub/koa2-server/tree/master/example/six/1)
   * [6.2 Vue环境搭建](https://github.com/ljcGitHub/koa2-server/tree/master/example/six/2)
+  * [6.3 token管理路由权限](https://github.com/ljcGitHub/koa2-server/tree/master/example/six/3)
+  * [6.4 服务器/客户端 登录联调](https://github.com/ljcGitHub/koa2-server/tree/master/example/six/4)
 * [6. PM2管理进程]()
 * [7. 错误处理与日志上报]()
 * [8. 服务器部署]()
