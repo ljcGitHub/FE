@@ -9,7 +9,7 @@ koa是一门简单易学的web框架，优雅，简洁，自由。
 
 本文参考了廖雪峰，Scott等大佬的代码，为了方便理解，部分中间件会改为手写功能去实现。
 
-每个大章都有写好的项目代码，方便代码阅读和拷贝。
+每个大章都有写好的项目代码，方便代码阅读和拷贝，每次修改代码，记得重启服务，后续会修改nodemon启动。
 
 #### 项目
 是基于koa2开发关于用户，商品管理，购物车的电商系统
@@ -54,12 +54,13 @@ koa是一门简单易学的web框架，优雅，简洁，自由。
   * [6.3 token管理路由权限](https://github.com/ljcGitHub/koa2-server/tree/master/example/six/3)
   * [6.4 服务器/客户端 登录联调](https://github.com/ljcGitHub/koa2-server/tree/master/example/six/4)
   * [6.5 商品查询](https://github.com/ljcGitHub/koa2-server/tree/master/example/six/5)
-* [6. PM2管理进程]()
-* [7. 错误处理与日志上报]()
-* [8. 服务器部署]()
-* [9. nginx配置]()
-* [10. 项目打包]()
-* [11. 完结]()
+  * [6.6 购物车收藏](https://github.com/ljcGitHub/koa2-server/tree/master/example/six/6)
+* [7. PM2管理进程]()
+* [8. 错误处理与日志上报]()
+* [9. 服务器部署]()
+* [10. nginx配置]()
+* [11. 项目打包]()
+* [12. 完结]()
 
  
 
