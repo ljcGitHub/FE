@@ -2,30 +2,16 @@
 
 #### 数据库表关系
 用户表 user
-|Field|Type|Allow Null|Default Value|
-|:--|:-|:--|:-|
-|id|int(11)|No||
-|account|varchar(20)|Yes||
-|password|varchar(255)|Yes||
-|name|varchar(255)|Yes||
-|portraits|varchar(255)|Yes||
-|note|varchar(255)|Yes||
+
+![image](user.jpg)
+
 商品表 goods
-|Field|Type|Allow Null|Default Value|
-|:--|:-|:--|:-|
-|id|int(11)|No||
-|name|varchar(20)|Yes||
-|price|varchar(255)|Yes||
-|image|varchar(255)|Yes||
-|note|varchar(255)|Yes||
+
+![image](goods.jpg)
+
 购物车 cart
-|Field|Type|Allow Null|Default Value|
-|:--|:-|:--|:-|
-|id|int(11)|No||
-|userid|varchar(20)|Yes||
-|goodsid|varchar(255)|Yes||
-|valid|tinyint(1)|No|true|
-|note|varchar(255)|Yes||
+
+![image](cart.jpg)
 
 购物车作为用户表和商品表的关系表，userid和goodsid关联
 
