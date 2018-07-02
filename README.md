@@ -55,6 +55,7 @@ koa是一门简单易学的web框架，优雅，简洁，自由（恶补linux的
   * [6.4 服务器/客户端 登录联调](https://github.com/ljcGitHub/koa2-server/tree/master/example/six/4)
   * [6.5 商品查询](https://github.com/ljcGitHub/koa2-server/tree/master/example/six/5)
   * [6.6 购物车收藏](https://github.com/ljcGitHub/koa2-server/tree/master/example/six/6)
+* [7. 云服务器](https://github.com/ljcGitHub/koa2-server/tree/master/example/seven)
 * [7. PM2管理进程]()
 * [8. 错误处理与日志上报]()
 * [9. 服务器部署]()
