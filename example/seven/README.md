@@ -41,7 +41,7 @@ root@119.XX.XX.XXX's password:
 [nvm](https://github.com/creationix/nvm)主要管理node的版本
 ##### 安装 nvm
 ```
-sudo apt-get install wget curl
+sudo apt-get install vim wget curl
 ```
 
 从[官网](https://github.com/creationix/nvm)中安装nvm有curl和wget的方式
