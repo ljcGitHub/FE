@@ -94,6 +94,12 @@ http.createServer(function(req, res){
 }).listen(80)
 
 ```
+编写简易的服务器之后，按 esc键， 按下 :wq! 保存并退出
+
+执行启动服务器命令
+```
+node app.js
+```
 
 在浏览器输入你的阿里云的公网地址 [http://119.XX.XXX.XXX]()
 
