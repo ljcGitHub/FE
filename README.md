@@ -57,7 +57,7 @@ koa是一门简单易学的web框架，优雅，简洁，自由。
   * [6.6 购物车收藏](https://github.com/ljcGitHub/koa2-server/tree/master/example/six/6)
 * [7. 云服务器](https://github.com/ljcGitHub/koa2-server/tree/master/example/seven)
 * [8. PM2管理进程](https://github.com/ljcGitHub/koa2-server/tree/master/example/eight)
-* [8. nginx配置](https://github.com/ljcGitHub/koa2-server/tree/master/example/nine)
+* [9. nginx配置](https://github.com/ljcGitHub/koa2-server/tree/master/example/nine)
 * [? 错误处理与日志上报]()
 * [? 服务器部署]()
 * [? 项目打包]()
