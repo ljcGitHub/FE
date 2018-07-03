@@ -91,7 +91,7 @@ const http = require('http')
 http.createServer(function(req, res){
     res.writeHead(200, {'Content-Type': 'text/plain'})
     res.end('hello world , my first server!')
-}).listen(80)
+}).listen(3000)
 
 ```
 编写简易的服务器之后，按 esc键， 按下 :wq! 保存并退出
@@ -101,7 +101,7 @@ http.createServer(function(req, res){
 node app.js
 ```
 
-在浏览器输入你的阿里云的公网地址 [http://119.XX.XXX.XXX]()
+在浏览器输入你的阿里云的公网地址 [http://119.XX.XXX.XXX:3000]()
 
 ![image](C408179.png)
 

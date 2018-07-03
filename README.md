@@ -5,7 +5,7 @@
 [node-url]: http://nodejs.org/download/
 
 #### 前言
-koa是一门简单易学的web框架，优雅，简洁，自由（恶补linux的基础，未完待续）。
+koa是一门简单易学的web框架，优雅，简洁，自由。
 
 本文参考了廖雪峰，Scott等大佬的代码，为了方便理解，部分中间件会改为手写功能去实现。
 
@@ -57,11 +57,11 @@ koa是一门简单易学的web框架，优雅，简洁，自由（恶补linux的
   * [6.6 购物车收藏](https://github.com/ljcGitHub/koa2-server/tree/master/example/six/6)
 * [7. 云服务器](https://github.com/ljcGitHub/koa2-server/tree/master/example/seven)
 * [8. PM2管理进程](https://github.com/ljcGitHub/koa2-server/tree/master/example/eight)
-* [8. 错误处理与日志上报]()
-* [9. 服务器部署]()
-* [10. nginx配置]()
-* [11. 项目打包]()
-* [12. 完结]()
+* [8. nginx配置](https://github.com/ljcGitHub/koa2-server/tree/master/example/nine)
+* [? 错误处理与日志上报]()
+* [? 服务器部署]()
+* [? 项目打包]()
+* [? 完结]()
 
  
 
