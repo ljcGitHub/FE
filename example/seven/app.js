@@ -1,6 +1,10 @@
-const http = require('http')
+import Koa from 'koa'
+import middleware from './middleware'
 
-http.createServer(function(req, res){
-    res.writeHead(200, {'Content-Type': 'text/plain'})
-    res.end('hello world , my first server!')
-}).listen(3000)
+const app = new Koa()
+
+middleware(app)
+
+app.listen(3000, () => {
+  console.log('koa2 is starting at port 3000')
+})
