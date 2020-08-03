@@ -5,7 +5,8 @@
 [node-url]: http://nodejs.org/download/
 
 ## 目录
-* [vue-test](https://github.com/ljcGitHub/FE/blob/master/issues/vue-test.md)
+* [vue单元测试](https://github.com/ljcGitHub/FE/blob/master/issues/vue-test.md)
+* [浏览器渲染过程](https://github.com/ljcGitHub/FE/blob/master/issues/browser-rendering-process.md)
 
  
 
